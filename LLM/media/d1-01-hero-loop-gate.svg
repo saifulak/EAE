@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-size="16" role="img" aria-labelledby="t d">
+<title id="t">The finishable loop: a car on a ring road with a check gate, a fuel gauge and a finish flag</title>
+<desc id="d">A car drives round a ring road. Clockwise it passes a striped check gate with a green tick sign, then a fuel gauge shows the budget running low so the loop must stop, and a chequered flag in the middle asks whether the task is done. The Seri Maju Berhad office sign sits top left. Labels: 1 Do, 2 Check at the gate, 3 Stop budget, 4 Done?</desc>
+<style>text{font-family:system-ui,"Segoe UI",Arial,sans-serif;fill:#1A1A1A;font-weight:700}.b{fill:#FFFFFF;stroke:#1A1A1A;stroke-width:2}.k{stroke:#1A1A1A;stroke-width:2}</style>
+<defs>
+<pattern id="stripe" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="12" height="12" fill="#FFFFFF"/><rect width="6" height="12" fill="#D55E00"/></pattern>
+<pattern id="chk" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#FFFFFF"/><rect width="8" height="8" fill="#000000"/><rect x="8" y="8" width="8" height="8" fill="#000000"/></pattern>
+</defs>
+<rect width="800" height="450" fill="#F5F5F5"/>
+<text x="400" y="36" text-anchor="middle" font-size="22">Every AI task is a loop: do, check, stop</text>
+<rect class="k" x="20" y="60" width="160" height="54" rx="6" fill="#0072B2"/>
+<rect x="34" y="72" width="16" height="16" fill="#F0E442"/><rect x="58" y="72" width="16" height="16" fill="#F0E442"/>
+<text x="100" y="104" text-anchor="middle" font-size="14" style="fill:#FFFFFF">Seri Maju Berhad</text>
+<ellipse cx="300" cy="255" rx="210" ry="105" fill="#009E73" stroke="#1A1A1A" stroke-width="48"/>
+<ellipse cx="300" cy="255" rx="210" ry="105" fill="none" stroke="#F5F5F5" stroke-width="3" stroke-dasharray="14 10"/>
+<polygon points="322,141 344,150 322,159" fill="#F0E442" stroke="#1A1A1A"/>
+<polygon points="278,351 256,360 278,369" fill="#F0E442" stroke="#1A1A1A"/>
+<rect class="k" x="62" y="241" width="56" height="26" rx="8" fill="#E69F00"/>
+<rect class="k" x="76" y="229" width="28" height="16" rx="4" fill="#56B4E9"/>
+<circle cx="76" cy="269" r="7" fill="#1A1A1A"/><circle cx="104" cy="269" r="7" fill="#1A1A1A"/>
+<rect class="b" x="14" y="318" width="136" height="32" rx="8"/><text x="82" y="340" text-anchor="middle">1  DO: try</text>
+<rect class="k" x="455" y="205" width="110" height="14" fill="url(#stripe)"/>
+<rect class="k" x="565" y="165" width="14" height="80" fill="#0072B2"/>
+<circle class="k" cx="604" cy="200" r="24" fill="#009E73"/>
+<polyline points="591,201 599,211 616,189" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+<rect class="b" x="528" y="250" width="230" height="32" rx="8"/><text x="643" y="272" text-anchor="middle">2  CHECK at the gate</text>
+<line class="k" x1="300" y1="180" x2="300" y2="125" stroke-width="4"/>
+<rect class="k" x="300" y="125" width="48" height="32" fill="url(#chk)"/>
+<rect class="b" x="238" y="190" width="124" height="32" rx="8"/><text x="300" y="212" text-anchor="middle">4  DONE?</text>
+<rect class="b" x="196" y="262" width="208" height="32" rx="8"/><text x="300" y="284" text-anchor="middle">one lap = one try</text>
+<circle cx="690" cy="345" r="58" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="3"/>
+<path d="M650 345 A40 40 0 0 1 670 310.4" fill="none" stroke="url(#stripe)" stroke-width="14"/>
+<path d="M670 310.4 A40 40 0 0 1 710 310.4" fill="none" stroke="#F0E442" stroke-width="14"/>
+<path d="M710 310.4 A40 40 0 0 1 730 345" fill="none" stroke="#009E73" stroke-width="14"/>
+<line x1="690" y1="345" x2="661" y2="328" stroke="#1A1A1A" stroke-width="5" stroke-linecap="round"/><circle cx="690" cy="345" r="7" fill="#1A1A1A"/>
+<text x="652" y="370">E</text><text x="716" y="370">F</text>
+<rect class="b" x="504" y="408" width="288" height="32" rx="8"/><text x="648" y="430" text-anchor="middle" font-size="15">3  STOP BUDGET: empty = stop</text>
+</svg>

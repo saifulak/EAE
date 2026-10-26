@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-size="16" role="img" aria-labelledby="t d">
+<title id="t">Check-up dashboard: a funnel of test questions feeds three dials</title>
+<desc id="d">Three question cards, Q1 to Q3, drop into an orange funnel labelled golden set. A blue pipe carries them into a computer monitor titled check-up dashboard, with a heartbeat line. The monitor shows three plain dials with needles, labelled uses sources, cites ids and says not found, a small bar chart called over time with five bars, and a yellow sticky note saying look at what went wrong first. No target number is shown: the dashboard only shows what to fix next.</desc>
+<style>text{font-family:system-ui,"Segoe UI",Arial,sans-serif;fill:#1A1A1A;font-weight:700}.b{fill:#FFFFFF;stroke:#1A1A1A;stroke-width:2}.k{stroke:#1A1A1A;stroke-width:2}</style>
+<rect width="800" height="450" fill="#F5F5F5"/>
+<text x="400" y="30" text-anchor="middle" font-size="22" style="fill:#1A1A1A">A check-up for your assistant: look, learn, fix</text>
+<rect class="k" x="40" y="60" width="52" height="38" rx="6" fill="#56B4E9"/><text x="66" y="85" text-anchor="middle">Q1</text>
+<rect class="k" x="114" y="68" width="52" height="38" rx="6" fill="#F0E442"/><text x="140" y="93" text-anchor="middle">Q2</text>
+<rect class="k" x="188" y="60" width="52" height="38" rx="6" fill="#CC79A7"/><text x="214" y="85" text-anchor="middle">Q3</text>
+<polygon class="k" points="30,116 250,116 176,250 104,250" fill="#E69F00" stroke-width="3"/>
+<text x="140" y="170" text-anchor="middle">golden set</text>
+<line x1="140" y1="250" x2="140" y2="300" stroke="#1A1A1A" stroke-width="28"/><line x1="140" y1="250" x2="140" y2="300" stroke="#56B4E9" stroke-width="20"/>
+<line x1="140" y1="300" x2="288" y2="300" stroke="#1A1A1A" stroke-width="28"/><line x1="140" y1="300" x2="288" y2="300" stroke="#56B4E9" stroke-width="20"/>
+<polygon class="k" points="284,282 284,318 306,300" fill="#1A1A1A"/>
+<rect class="b" x="20" y="332" width="256" height="30" rx="8"/><text x="148" y="353" text-anchor="middle">every run, same questions</text>
+<rect class="k" x="310" y="60" width="466" height="300" rx="16" fill="#1A1A1A"/><rect x="322" y="72" width="442" height="276" rx="8" fill="#F5F5F5"/>
+<rect class="k" x="500" y="360" width="90" height="16" fill="#1A1A1A"/><rect class="k" x="450" y="376" width="190" height="10" rx="5" fill="#1A1A1A"/>
+<polyline points="334,106 356,106 364,92 374,120 382,100 390,106 410,106" fill="none" stroke="#D55E00" stroke-width="4" stroke-linejoin="round"/>
+<text x="590" y="112" text-anchor="middle" font-size="18">CHECK-UP DASHBOARD</text>
+<path class="k" d="M340 215 A52 52 0 0 1 444 215 Z" fill="#56B4E9"/><path d="M348 215 A44 44 0 0 1 436 215" fill="none" stroke="#1A1A1A" stroke-width="8" stroke-dasharray="2 12"/>
+<line x1="392" y1="215" x2="369" y2="182" stroke="#1A1A1A" stroke-width="5" stroke-linecap="round"/><circle cx="392" cy="215" r="7" fill="#1A1A1A"/>
+<text x="392" y="246" text-anchor="middle" font-size="14">uses sources</text>
+<path class="k" d="M488 215 A52 52 0 0 1 592 215 Z" fill="#E69F00"/><path d="M496 215 A44 44 0 0 1 584 215" fill="none" stroke="#1A1A1A" stroke-width="8" stroke-dasharray="2 12"/>
+<line x1="540" y1="215" x2="554" y2="177" stroke="#1A1A1A" stroke-width="5" stroke-linecap="round"/><circle cx="540" cy="215" r="7" fill="#1A1A1A"/>
+<text x="540" y="246" text-anchor="middle" font-size="14">cites ids</text>
+<path class="k" d="M636 215 A52 52 0 0 1 740 215 Z" fill="#CC79A7"/><path d="M644 215 A44 44 0 0 1 732 215" fill="none" stroke="#1A1A1A" stroke-width="8" stroke-dasharray="2 12"/>
+<line x1="688" y1="215" x2="681" y2="176" stroke="#1A1A1A" stroke-width="5" stroke-linecap="round"/><circle cx="688" cy="215" r="7" fill="#1A1A1A"/>
+<text x="688" y="246" text-anchor="middle" font-size="14">says not found</text>
+<rect class="k" x="344" y="298" width="24" height="20" fill="#56B4E9"/><rect class="k" x="376" y="290" width="24" height="28" fill="#56B4E9"/><rect class="k" x="408" y="294" width="24" height="24" fill="#56B4E9"/>
+<rect class="k" x="440" y="282" width="24" height="36" fill="#56B4E9"/><rect class="k" x="472" y="272" width="24" height="46" fill="#E69F00"/>
+<rect class="b" x="508" y="282" width="100" height="28" rx="8"/><text x="558" y="302" text-anchor="middle" font-size="14">over time</text>
+<rect class="k" x="632" y="266" width="120" height="56" fill="#F0E442"/><polygon class="k" points="732,322 752,322 752,302" fill="#E69F00"/>
+<text x="692" y="289" text-anchor="middle" font-size="14">what went</text><text x="692" y="309" text-anchor="middle" font-size="14">wrong first</text>
+<text x="543" y="338" text-anchor="middle" font-size="14">A check-up shows what to fix next</text>
+<rect class="k" x="130" y="400" width="540" height="38" rx="10" fill="#009E73"/><text x="400" y="425" text-anchor="middle" font-size="15">Public practice set + demo judge: a guide, not a verdict</text>
+</svg>

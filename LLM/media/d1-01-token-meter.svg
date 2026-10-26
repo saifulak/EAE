@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-size="16" role="img" aria-labelledby="t d">
+<title id="t">Token meter: words are cut into tokens and the meter turns tokens into ringgit</title>
+<desc id="d">A yellow taxi with a chequered stripe stands in front of two tall towers of different heights in an imaginary city skyline. Above it a sentence, "How many days of leave?", is cut into six numbered tiles called tokens. An arrow leads to a taxi-style meter whose display reads RM 0.00022, with tokens in and tokens out listed. A bottom strip shows the sum: in plus out tokens, times price per 1 million tokens, equals RM cost. The price is a placeholder.</desc>
+<style>text{font-family:system-ui,"Segoe UI",Arial,sans-serif;fill:#1A1A1A;font-weight:700}.b{fill:#FFFFFF;stroke:#1A1A1A;stroke-width:2}.k{stroke:#1A1A1A;stroke-width:2}</style>
+<defs>
+<pattern id="chk" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#FFFFFF"/><rect width="8" height="8" fill="#000000"/><rect x="8" y="8" width="8" height="8" fill="#000000"/></pattern>
+</defs>
+<rect width="800" height="450" fill="#F5F5F5"/>
+<text x="400" y="34" text-anchor="middle" font-size="22">Words become tokens, tokens become ringgit</text>
+<rect class="k" x="30" y="52" width="76" height="40" rx="8" fill="#56B4E9"/><text x="68" y="78" text-anchor="middle">How</text>
+<rect class="k" x="112" y="52" width="76" height="40" rx="8" fill="#E69F00"/><text x="150" y="78" text-anchor="middle">many</text>
+<rect class="k" x="194" y="52" width="76" height="40" rx="8" fill="#56B4E9"/><text x="232" y="78" text-anchor="middle">days</text>
+<rect class="k" x="276" y="52" width="76" height="40" rx="8" fill="#E69F00"/><text x="314" y="78" text-anchor="middle">of</text>
+<rect class="k" x="358" y="52" width="76" height="40" rx="8" fill="#56B4E9"/><text x="396" y="78" text-anchor="middle">leave</text>
+<rect class="k" x="440" y="52" width="76" height="40" rx="8" fill="#E69F00"/><text x="478" y="78" text-anchor="middle">?</text>
+<text x="68" y="114" text-anchor="middle">1</text><text x="150" y="114" text-anchor="middle">2</text><text x="232" y="114" text-anchor="middle">3</text>
+<text x="314" y="114" text-anchor="middle">4</text><text x="396" y="114" text-anchor="middle">5</text><text x="478" y="114" text-anchor="middle">6</text>
+<rect class="b" x="30" y="134" width="256" height="32" rx="8"/><text x="158" y="156" text-anchor="middle" font-size="14">6 tokens = 6 pieces of words</text>
+<polyline points="522,72 600,72 600,112" fill="none" stroke="#1A1A1A" stroke-width="4"/>
+<polygon points="588,110 612,110 600,128" fill="#1A1A1A"/>
+<rect class="k" x="296" y="168" width="26" height="158" fill="#56B4E9"/><rect class="k" x="330" y="204" width="26" height="122" fill="#56B4E9"/>
+<rect x="302" y="180" width="6" height="8" fill="#FFFFFF"/><rect x="310" y="180" width="6" height="8" fill="#FFFFFF"/><rect x="302" y="198" width="6" height="8" fill="#FFFFFF"/><rect x="310" y="198" width="6" height="8" fill="#FFFFFF"/>
+<rect x="336" y="216" width="6" height="8" fill="#FFFFFF"/><rect x="344" y="216" width="6" height="8" fill="#FFFFFF"/><rect x="336" y="234" width="6" height="8" fill="#FFFFFF"/><rect x="344" y="234" width="6" height="8" fill="#FFFFFF"/>
+<path class="k" d="M70 250 L100 210 L210 210 L240 250 Z" fill="#F0E442"/>
+<polygon class="k" points="84,248 106,220 150,220 150,248" fill="#56B4E9"/><polygon class="k" points="160,220 205,220 226,248 160,248" fill="#56B4E9"/>
+<rect class="k" x="30" y="248" width="250" height="52" rx="14" fill="#F0E442"/>
+<rect class="k" x="38" y="266" width="234" height="16" fill="url(#chk)"/>
+<rect class="k" x="125" y="188" width="70" height="22" rx="4" fill="#FFFFFF"/><text x="160" y="205" text-anchor="middle" font-size="14">TAXI</text>
+<circle class="k" cx="80" cy="302" r="18" fill="#1A1A1A"/><circle cx="80" cy="302" r="6" fill="#F5F5F5"/>
+<circle class="k" cx="230" cy="302" r="18" fill="#1A1A1A"/><circle cx="230" cy="302" r="6" fill="#F5F5F5"/>
+<rect class="b" x="30" y="332" width="256" height="30" rx="8"/><text x="158" y="353" text-anchor="middle">the ride = one model call</text>
+<rect class="k" x="560" y="130" width="220" height="200" rx="18" fill="#1A1A1A"/>
+<text x="670" y="156" text-anchor="middle" style="fill:#F0E442">TOKEN METER</text>
+<rect x="578" y="166" width="184" height="80" rx="8" fill="#F5F5F5"/>
+<text x="670" y="206" text-anchor="middle" font-size="26">RM 0.00022</text>
+<text x="670" y="232" text-anchor="middle" font-size="14">placeholder price</text>
+<text x="670" y="272" text-anchor="middle" style="fill:#FFFFFF">in: 120 tokens</text>
+<text x="670" y="296" text-anchor="middle" style="fill:#FFFFFF">out: 80 tokens</text>
+<circle cx="600" cy="314" r="8" fill="#56B4E9"/><rect x="662" y="306" width="16" height="16" fill="#E69F00"/><polygon points="730,322 740,306 750,322" fill="#009E73"/>
+<rect class="b" x="30" y="378" width="230" height="36" rx="8"/><text x="145" y="402" text-anchor="middle">in + out tokens</text>
+<text x="285" y="403" text-anchor="middle" font-size="24">x</text>
+<rect class="b" x="310" y="378" width="240" height="36" rx="8"/><text x="430" y="402" text-anchor="middle" font-size="14">price per 1 million tokens</text>
+<text x="572" y="403" text-anchor="middle" font-size="24">=</text>
+<rect class="k" x="594" y="378" width="186" height="36" rx="8" fill="#009E73"/><text x="687" y="402" text-anchor="middle">RM cost</text>
+<text x="400" y="438" text-anchor="middle" font-size="14">Placeholder price (0.50 in, 2.00 out per 1 million tokens): use your plan's real price.</text>
+</svg>

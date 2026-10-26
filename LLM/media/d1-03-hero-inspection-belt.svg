@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-size="16" role="img" aria-labelledby="t d">
+<title id="t">Inspection belt: check each answer, repair a bad one once, then ship it</title>
+<desc id="d">A conveyor belt carries claim boxes. A friendly inspector in a yellow hard hat holds a magnifying glass over the belt. A good box (RM 48) has a green tick. A bad box (RM ??) with a red-and-white striped side and a cross badge is lifted into a blue repair bay with a wrench, repaired once, and returns to the belt as a ticked box ready to ship. A bottom strip shows the critique loop: draft, critique, revise, with a stop sign after 2 rounds.</desc>
+<style>text{font-family:system-ui,"Segoe UI",Arial,sans-serif;fill:#1A1A1A;font-weight:700}.b{fill:#FFFFFF;stroke:#1A1A1A;stroke-width:2}.k{stroke:#1A1A1A;stroke-width:2}</style>
+<defs><pattern id="stripe" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="12" height="12" fill="#FFFFFF"/><rect width="6" height="12" fill="#D55E00"/></pattern></defs>
+<rect width="800" height="450" fill="#F5F5F5"/>
+<text x="400" y="34" text-anchor="middle" font-size="22">Check every answer, repair once, then ship</text>
+<rect class="k" x="20" y="250" width="760" height="28" rx="14" fill="#1A1A1A"/>
+<circle cx="50" cy="264" r="9" fill="#F5F5F5"/><circle cx="150" cy="264" r="9" fill="#F5F5F5"/><circle cx="250" cy="264" r="9" fill="#F5F5F5"/><circle cx="350" cy="264" r="9" fill="#F5F5F5"/><circle cx="450" cy="264" r="9" fill="#F5F5F5"/><circle cx="550" cy="264" r="9" fill="#F5F5F5"/><circle cx="650" cy="264" r="9" fill="#F5F5F5"/><circle cx="750" cy="264" r="9" fill="#F5F5F5"/>
+<rect class="k" x="40" y="200" width="70" height="50" fill="#56B4E9"/><rect class="b" x="46" y="214" width="58" height="24"/><text x="75" y="232" text-anchor="middle" font-size="14">RM 48</text>
+<circle class="k" cx="104" cy="200" r="13" fill="#009E73"/><polyline points="97,200 102,206 111,194" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+<rect class="k" x="395" y="200" width="70" height="50" fill="url(#stripe)"/><rect class="b" x="401" y="214" width="58" height="24"/><text x="430" y="232" text-anchor="middle" font-size="14">RM ??</text>
+<circle class="k" cx="459" cy="200" r="13" fill="#D55E00"/><path d="M453 194 L465 206 M465 194 L453 206" stroke="#FFFFFF" stroke-width="4"/>
+<rect class="k" x="282" y="222" width="14" height="28" fill="#0072B2"/><rect class="k" x="304" y="222" width="14" height="28" fill="#0072B2"/>
+<rect class="k" x="276" y="150" width="48" height="74" rx="10" fill="#0072B2"/>
+<circle class="k" cx="300" cy="128" r="22" fill="#E69F00"/>
+<path class="k" d="M278 124 A22 22 0 0 1 322 124 Z" fill="#F0E442"/><rect class="k" x="272" y="122" width="56" height="6" fill="#F0E442"/>
+<circle cx="292" cy="134" r="3" fill="#1A1A1A"/><circle cx="308" cy="134" r="3" fill="#1A1A1A"/><path d="M293 143 Q300 149 307 143" fill="none" stroke="#1A1A1A" stroke-width="2"/>
+<line x1="324" y1="176" x2="352" y2="170" stroke="#1A1A1A" stroke-width="6" stroke-linecap="round"/>
+<circle class="k" cx="372" cy="164" r="20" fill="#56B4E9" stroke-width="4"/><line x1="386" y1="178" x2="398" y2="192" stroke="#1A1A1A" stroke-width="6" stroke-linecap="round"/>
+<polyline points="430,196 430,118 494,118" fill="none" stroke="#1A1A1A" stroke-width="4"/><polygon points="492,108 492,128 508,118" fill="#1A1A1A"/>
+<polygon class="k" points="506,100 575,62 644,100" fill="#0072B2"/><rect class="k" x="512" y="100" width="126" height="60" fill="#0072B2"/>
+<text x="575" y="124" text-anchor="middle" style="fill:#FFFFFF">REPAIR BAY</text>
+<g transform="rotate(-30 575 146)"><rect class="k" x="548" y="142" width="54" height="9" fill="#F0E442"/><circle cx="548" cy="146" r="10" fill="none" stroke="#F0E442" stroke-width="6"/></g>
+<polyline points="644,118 700,118 700,176" fill="none" stroke="#1A1A1A" stroke-width="4"/><polygon points="690,174 710,174 700,194" fill="#1A1A1A"/>
+<rect class="k" x="665" y="200" width="70" height="50" fill="#56B4E9"/><rect class="b" x="671" y="214" width="58" height="24"/><text x="700" y="232" text-anchor="middle" font-size="14">RM 48</text>
+<circle class="k" cx="729" cy="200" r="13" fill="#009E73"/><polyline points="722,200 727,206 736,194" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+<rect class="b" x="506" y="166" width="124" height="30" rx="8"/><text x="568" y="187" text-anchor="middle">ONE repair</text>
+<rect class="b" x="20" y="292" width="170" height="30" rx="8"/><text x="105" y="313" text-anchor="middle">valid: goes on</text>
+<rect class="b" x="205" y="292" width="190" height="30" rx="8"/><text x="300" y="313" text-anchor="middle">INSPECTOR checks</text>
+<rect class="b" x="560" y="292" width="210" height="30" rx="8"/><text x="665" y="313" text-anchor="middle">fixed once: ship it</text>
+<rect class="k" x="30" y="348" width="120" height="38" rx="8" fill="#E69F00"/><text x="90" y="373" text-anchor="middle">DRAFT</text>
+<line x1="152" y1="367" x2="184" y2="367" stroke="#1A1A1A" stroke-width="4"/><polygon points="182,359 182,375 196,367" fill="#1A1A1A"/>
+<rect class="k" x="198" y="348" width="140" height="38" rx="8" fill="#56B4E9"/><text x="268" y="373" text-anchor="middle">CRITIQUE</text>
+<line x1="340" y1="367" x2="372" y2="367" stroke="#1A1A1A" stroke-width="4"/><polygon points="370,359 370,375 384,367" fill="#1A1A1A"/>
+<rect class="k" x="386" y="348" width="120" height="38" rx="8" fill="#009E73"/><text x="446" y="373" text-anchor="middle">REVISE</text>
+<polyline points="446,388 446,412 90,412 90,390" fill="none" stroke="#1A1A1A" stroke-width="4"/><polygon points="82,392 98,392 90,378" fill="#1A1A1A"/>
+<text x="268" y="438" text-anchor="middle" font-size="14">repeat, but with a stop budget</text>
+<polygon class="k" points="570,350 596,350 614,368 614,394 596,412 570,412 552,394 552,368" fill="url(#stripe)"/>
+<rect class="b" x="628" y="360" width="150" height="40" rx="8"/><text x="703" y="386" text-anchor="middle">STOP after 2</text>
+</svg>

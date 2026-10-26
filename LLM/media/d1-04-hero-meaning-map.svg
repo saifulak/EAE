@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-size="16" role="img" aria-labelledby="t d">
+<title id="t">Meaning map: policy notes as pins, with the nearest ones close to your question</title>
+<desc id="d">A street map with a river and a park. An orange diamond marks your question, taxi claim. Inside a dashed circle labelled near are three pins: Expense claims and Travel policy (green pins with round dots) and Overtime meals (a vermilion pin with a cross) flagged as a wrong neighbour because it shares words but not meaning. Far outside the circle are blue square-dot pins: Safety drill, Annual leave and Remote work. A bottom strip says to check the nearest pin before trusting it.</desc>
+<style>text{font-family:system-ui,"Segoe UI",Arial,sans-serif;fill:#1A1A1A;font-weight:700}.b{fill:#FFFFFF;stroke:#1A1A1A;stroke-width:2}.k{stroke:#1A1A1A;stroke-width:2}</style>
+<defs>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#F5F5F5"/><circle cx="6" cy="6" r="3" fill="#009E73"/></pattern>
+</defs>
+<rect width="800" height="450" fill="#F5F5F5"/>
+<text x="400" y="34" text-anchor="middle" font-size="22">Texts with similar wording sit close on the map</text>
+<rect class="k" x="30" y="52" width="740" height="340" rx="16" fill="#F5F5F5" stroke-width="3"/>
+<rect class="k" x="50" y="70" width="130" height="80" rx="10" fill="url(#dots)"/>
+<path d="M32 330 C180 300 260 380 420 350 C580 320 640 200 768 150" fill="none" stroke="#56B4E9" stroke-width="26"/>
+<path d="M32 330 C180 300 260 380 420 350 C580 320 640 200 768 150" fill="none" stroke="#F5F5F5" stroke-width="3" stroke-dasharray="10 12"/>
+<path d="M200 60 L200 390 M560 60 L560 390 M32 200 L768 200" stroke="#1A1A1A" stroke-width="2" stroke-dasharray="4 8" fill="none"/>
+<ellipse cx="400" cy="232" rx="125" ry="115" fill="#F0E442" fill-opacity="0.35" stroke="#1A1A1A" stroke-width="3" stroke-dasharray="10 6"/>
+<rect class="b" x="285" y="68" width="230" height="30" rx="8"/><text x="400" y="89" text-anchor="middle">NEAR = similar wording</text>
+<polygon class="k" points="400,206 426,232 400,258 374,232" fill="#E69F00"/>
+<rect class="b" x="240" y="266" width="198" height="28" rx="8"/><text x="339" y="286" text-anchor="middle">YOU ASK: taxi claim</text>
+<path class="k" transform="translate(340,175)" d="M0 0 C-14 -16 -16 -26 -16 -32 A16 16 0 1 1 16 -32 C16 -26 14 -16 0 0Z" fill="#009E73"/>
+<circle cx="340" cy="143" r="6" fill="#FFFFFF"/>
+<rect class="b" x="168" y="146" width="158" height="28" rx="8"/><text x="247" y="166" text-anchor="middle" font-size="15">Expense claims</text>
+<path class="k" transform="translate(470,190)" d="M0 0 C-14 -16 -16 -26 -16 -32 A16 16 0 1 1 16 -32 C16 -26 14 -16 0 0Z" fill="#009E73"/>
+<circle cx="470" cy="158" r="6" fill="#FFFFFF"/>
+<rect class="b" x="488" y="150" width="142" height="28" rx="8"/><text x="559" y="170" text-anchor="middle" font-size="15">Travel policy</text>
+<path class="k" transform="translate(470,310)" d="M0 0 C-14 -16 -16 -26 -16 -32 A16 16 0 1 1 16 -32 C16 -26 14 -16 0 0Z" fill="#D55E00"/>
+<path d="M464 272 L476 284 M476 272 L464 284" stroke="#FFFFFF" stroke-width="4"/>
+<rect class="b" x="492" y="290" width="154" height="28" rx="8"/><text x="569" y="310" text-anchor="middle">Overtime meals</text>
+<rect class="k" x="486" y="332" width="280" height="30" rx="8" fill="#F0E442"/><text x="626" y="353" text-anchor="middle">wrong neighbour: same words</text>
+<path class="k" transform="translate(110,300)" d="M0 0 C-14 -16 -16 -26 -16 -32 A16 16 0 1 1 16 -32 C16 -26 14 -16 0 0Z" fill="#56B4E9"/>
+<rect x="102" y="260" width="16" height="16" fill="#1A1A1A"/>
+<rect class="b" x="122" y="304" width="140" height="28" rx="8"/><text x="192" y="324" text-anchor="middle">Safety drill</text>
+<path class="k" transform="translate(690,130)" d="M0 0 C-14 -16 -16 -26 -16 -32 A16 16 0 1 1 16 -32 C16 -26 14 -16 0 0Z" fill="#56B4E9"/>
+<rect x="682" y="90" width="16" height="16" fill="#1A1A1A"/>
+<rect class="b" x="540" y="104" width="130" height="28" rx="8"/><text x="605" y="124" text-anchor="middle">Annual leave</text>
+<path class="k" transform="translate(700,260)" d="M0 0 C-14 -16 -16 -26 -16 -32 A16 16 0 1 1 16 -32 C16 -26 14 -16 0 0Z" fill="#56B4E9"/>
+<rect x="692" y="220" width="16" height="16" fill="#1A1A1A"/>
+<rect class="b" x="560" y="214" width="124" height="28" rx="8"/><text x="622" y="234" text-anchor="middle">Remote work</text>
+<rect class="b" x="14" y="168" width="192" height="28" rx="8"/><text x="110" y="188" text-anchor="middle">FAR = other topic</text>
+<rect class="k" x="150" y="404" width="500" height="36" rx="10" fill="#009E73"/>
+<text x="400" y="428" text-anchor="middle">Always read the nearest pin before you trust it</text>
+</svg>

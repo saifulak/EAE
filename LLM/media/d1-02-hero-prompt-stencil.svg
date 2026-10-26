@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-size="16" role="img" aria-labelledby="t d">
+<title id="t">A prompt template is a stencil letter with blanks, taught by three example cards</title>
+<desc id="d">On the left, a Seri Maju Berhad claims letter has yellow dashed blanks for name, item, amount and status, like a mail-merge stencil. On the right, three example cards (meals RM 48 approved, repair RM 1,400 ask first, taxi RM 35 approved) show the style, with an arrow pointing to the letter. A bottom strip says: template plus blanks plus examples gives a message that behaves.</desc>
+<style>text{font-family:system-ui,"Segoe UI",Arial,sans-serif;fill:#1A1A1A;font-weight:700}.b{fill:#FFFFFF;stroke:#1A1A1A;stroke-width:2}.k{stroke:#1A1A1A;stroke-width:2}.bl{fill:#F0E442;stroke:#1A1A1A;stroke-width:2;stroke-dasharray:6 4}</style>
+<rect width="800" height="450" fill="#F5F5F5"/>
+<text x="400" y="34" text-anchor="middle" font-size="22">A prompt template is a stencil with blanks</text>
+<rect class="b" x="30" y="56" width="330" height="310" rx="6"/>
+<rect class="k" x="30" y="56" width="330" height="44" rx="6" fill="#0072B2"/>
+<text x="195" y="85" text-anchor="middle" style="fill:#FFFFFF">Seri Maju Berhad - Claims Desk</text>
+<text x="50" y="140">Dear</text><rect class="bl" x="96" y="122" width="120" height="26" rx="4"/><text x="156" y="141" text-anchor="middle">{name}</text>
+<text x="50" y="186">Your claim for</text><rect class="bl" x="176" y="168" width="130" height="26" rx="4"/><text x="241" y="187" text-anchor="middle">{item}</text>
+<text x="50" y="232">of RM</text><rect class="bl" x="108" y="214" width="130" height="26" rx="4"/><text x="173" y="233" text-anchor="middle">{amount}</text>
+<text x="50" y="278">is</text><rect class="bl" x="76" y="260" width="130" height="26" rx="4"/><text x="141" y="279" text-anchor="middle">{status}</text>
+<text x="50" y="340">Thank you. Claims Desk</text>
+<polygon class="k" points="338,56 360,56 360,78" fill="#E69F00"/>
+<rect class="k" x="490" y="70" width="270" height="62" rx="8" fill="#FFFFFF"/><circle class="k" cx="514" cy="101" r="14" fill="#E69F00"/><text x="514" y="107" text-anchor="middle">1</text><text x="538" y="107">Meals RM 48: approved</text>
+<rect class="k" x="505" y="150" width="270" height="62" rx="8" fill="#FFFFFF"/><circle class="k" cx="529" cy="181" r="14" fill="#56B4E9"/><text x="529" y="187" text-anchor="middle">2</text><text x="553" y="187">Repair RM 1,400: ask</text>
+<rect class="k" x="520" y="230" width="270" height="62" rx="8" fill="#FFFFFF"/><circle class="k" cx="544" cy="261" r="14" fill="#009E73"/><text x="544" y="267" text-anchor="middle">3</text><text x="568" y="267">Taxi RM 35: approved</text>
+<rect class="b" x="520" y="306" width="270" height="34" rx="8"/><text x="655" y="329" text-anchor="middle">3 examples teach the style</text>
+<line x1="484" y1="215" x2="404" y2="215" stroke="#1A1A1A" stroke-width="6"/><polygon points="376,215 404,200 404,230" fill="#1A1A1A"/>
+<rect class="k" x="50" y="388" width="700" height="40" rx="10" fill="#009E73"/>
+<text x="400" y="414" text-anchor="middle">template + blanks + examples = a message that behaves</text>
+</svg>
