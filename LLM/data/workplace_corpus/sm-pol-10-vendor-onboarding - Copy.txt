@@ -1,0 +1,14 @@
+source_id: SM-POL-10
+Notice: Fictional content for training only. Seri Maju Berhad is not a real company.
+
+Title: Vendor Onboarding Procedure
+
+Before Seri Maju Berhad buys from a new vendor, the vendor must be registered by the Procurement team. The business owner starts the process by submitting a Vendor Request Form.
+
+Required documents: company registration certificate, bank letter, tax registration number, and a signed code of conduct. Vendors handling personal data must also sign a Data Processing Agreement.
+
+Procurement completes due diligence checks within 10 working days after receiving all documents. The Head of Procurement (a role, not a named person) approves new vendors.
+
+Purchases up to RM10,000 need 1 quotation. Purchases from RM10,001 to RM100,000 need 3 quotations. Purchases above RM100,000 go to a tender and need Management Committee approval.
+
+Standard payment terms are 45 days from the invoice date. Vendor details are reviewed every year, and vendors with no orders for 24 months are marked inactive.

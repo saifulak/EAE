@@ -1,0 +1,19 @@
+source_id: SM-POL-06
+Notice: Fictional content for training only. Seri Maju Berhad is not a real company.
+
+Title: Data Handling Policy
+
+Seri Maju Berhad classifies data into 3 levels: Public, Internal, and Confidential. Customer personal data and salary records are Confidential.
+
+Rules for Confidential data:
+- Store it only on approved company drives. Never on personal USB sticks or personal cloud accounts.
+- Share it only with people who need it for their job.
+- Encrypt it when sending outside the company.
+
+Customer personal data is kept for 7 years after the contract ends, then deleted by the Data Protection Officer (DPO) team within 60 days.
+
+If you suspect a data breach, report it to the DPO at dpo@serimaju.example within 24 hours. The DPO decides if regulators must be told. Do not try to investigate on your own.
+
+Do not paste Confidential data into public AI chat tools. Only tools approved by IT Security may be used for company data.
+
+All staff complete a short data handling refresher every year.

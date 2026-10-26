@@ -1,0 +1,9 @@
+{
+  "_note": "Classroom stub: short original summaries written for this course. Not Wikipedia text. To use live Wikipedia, swap the tool on an open network.",
+  "fifa world cup": "The FIFA World Cup is an international men's football tournament held every four years. National teams qualify through regional competitions run by their confederations. It is one of the most watched sporting events in the world.",
+  "retrieval-augmented generation": "Retrieval-augmented generation (RAG) lets a language model look up documents before it answers. The system finds passages that match the question and adds them to the prompt. This helps answers stay tied to real sources and makes updates easier than retraining.",
+  "large language model": "A large language model (LLM) is a neural network trained on large amounts of text to predict the next token. It can write, summarise and answer questions in natural language. It can sound confident even when it is wrong, so its output needs checking.",
+  "react (agent pattern)": "ReAct is an agent pattern that alternates reasoning and acting. The model thinks about what to do, calls a tool, reads the result, and repeats. The loop stops when the model has enough information to give a final answer.",
+  "malaysia": "Malaysia is a country in Southeast Asia made up of a peninsular region and part of Borneo. Its official language is Bahasa Malaysia, and English is widely used in business. The federal capital is Kuala Lumpur.",
+  "kuala lumpur": "Kuala Lumpur is the federal capital and largest city of Malaysia. It is a major centre for finance, business and transport. Many companies have their head offices there."
+}

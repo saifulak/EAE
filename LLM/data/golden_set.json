@@ -1,0 +1,17 @@
+[
+  {"id": "G01", "question": "Which country has the highest tv_audience_share in the FIFA audience dataset, and what is the value?", "expected_answer": "China, with a tv_audience_share of 14.8.", "source_id": null, "type": "fifa_lookup"},
+  {"id": "G02", "question": "What is Brazil's tv_audience_share in the FIFA audience dataset?", "expected_answer": "7.1", "source_id": null, "type": "fifa_lookup"},
+  {"id": "G03", "question": "Which country has the highest gdp_weighted_share in the FIFA audience dataset, and what is the value?", "expected_answer": "United States, with a gdp_weighted_share of 11.3.", "source_id": null, "type": "fifa_lookup"},
+  {"id": "G04", "question": "How many countries in the FIFA audience dataset belong to the CONMEBOL confederation?", "expected_answer": "10", "source_id": null, "type": "fifa_lookup"},
+  {"id": "G05", "question": "What is the total tv_audience_share of all UEFA countries in the FIFA audience dataset?", "expected_answer": "25.2", "source_id": null, "type": "fifa_lookup"},
+  {"id": "G06", "question": "How many days of annual leave does a Seri Maju Berhad staff member with 3 years of service get?", "expected_answer": "16 days per calendar year (2 to 5 years of service).", "source_id": "SM-POL-01", "type": "policy_rag"},
+  {"id": "G07", "question": "How often must Seri Maju Berhad passwords be changed, and how long must they be?", "expected_answer": "Every 90 days, with at least 12 characters.", "source_id": "SM-POL-02", "type": "policy_rag"},
+  {"id": "G08", "question": "Within how many calendar days must an expense claim be submitted, and who approves a RM2,000 claim?", "expected_answer": "Within 30 calendar days of the expense date; a RM2,000 claim is approved by the department head.", "source_id": "SM-POL-03", "type": "policy_rag"},
+  {"id": "G09", "question": "Where is the main assembly point during a fire drill at Seri Maju Berhad?", "expected_answer": "Car Park B, near the guard house.", "source_id": "SM-POL-04", "type": "policy_rag"},
+  {"id": "G10", "question": "How many days per week can staff work remotely after probation, and what are the core hours?", "expected_answer": "Up to 2 days per week; core hours are 10:00 am to 4:00 pm Malaysia time.", "source_id": "SM-POL-05", "type": "policy_rag"},
+  {"id": "G11", "question": "Within how many hours must a suspected data breach be reported, and to whom?", "expected_answer": "Within 24 hours, to the Data Protection Officer (DPO).", "source_id": "SM-POL-06", "type": "policy_rag"},
+  {"id": "G12", "question": "How many quotations are needed for a RM50,000 purchase from a vendor, and what are the standard payment terms?", "expected_answer": "3 quotations; standard payment terms are 45 days from the invoice date.", "source_id": "SM-POL-10", "type": "policy_rag"},
+  {"id": "G13", "question": "What is the Seri Maju Berhad policy on pet-friendly offices?", "expected_answer": "This is not in the data. The provided policies do not cover pet-friendly offices.", "source_id": null, "type": "refusal"},
+  {"id": "G14", "question": "What was the exact attendance at the 2022 FIFA World Cup final?", "expected_answer": "This is not in the data. The FIFA audience dataset has only country-level shares, not match attendance.", "source_id": null, "type": "refusal"},
+  {"id": "G15", "question": "What is the CEO's monthly salary at Seri Maju Berhad?", "expected_answer": "This is not in the data. Salary details are not in the provided policies.", "source_id": null, "type": "refusal"}
+]

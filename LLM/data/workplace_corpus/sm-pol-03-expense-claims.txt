@@ -1,0 +1,17 @@
+source_id: SM-POL-03
+Notice: Fictional content for training only. Seri Maju Berhad is not a real company.
+
+Title: Expense Claims Policy
+
+Staff can claim reasonable business expenses. Submit each claim in the Finance portal within 30 calendar days of the expense date. Late claims are rejected unless the Finance Manager approves an exception.
+
+Every claim needs an original receipt or a clear photo of it. Claims without a receipt must have a signed declaration form, and the limit for these is RM50 per month.
+
+Approval limits:
+- Up to RM500: line manager approval.
+- RM501 to RM3,000: department head approval.
+- Above RM3,000: Finance Director approval.
+
+Meal allowance during business activity is RM60 per day. Alcohol is never reimbursable.
+
+Finance pays approved claims every second Friday by bank transfer. If a claim is approved after the Tuesday cut-off, it is paid in the next cycle. For questions, contact the Finance Operations desk at fin-claims@serimaju.example.

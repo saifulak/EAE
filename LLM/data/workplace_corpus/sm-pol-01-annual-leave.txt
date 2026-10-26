@@ -1,0 +1,14 @@
+source_id: SM-POL-01
+Notice: Fictional content for training only. Seri Maju Berhad is not a real company.
+
+Title: Annual Leave Policy
+
+Seri Maju Berhad gives annual leave based on years of service. Staff with less than 2 years of service receive 14 days per calendar year. Staff with 2 to 5 years receive 16 days. Staff with more than 5 years receive 18 days.
+
+Leave must be applied through the HR portal at least 5 working days before the first day of leave. Your line manager must approve or reject the request within 2 working days. For leave of 3 days or less, a shorter notice of 1 working day is accepted if the manager agrees.
+
+Up to 5 unused days may be carried forward into the next year. Carried-forward days expire on 31 March. Unused days above the limit of 5 are not paid out.
+
+Medical leave is separate from annual leave. Staff must send a medical certificate to HR within 48 hours of returning to work.
+
+Questions about leave balances go to the HR Operations team at hr-ops@serimaju.example.

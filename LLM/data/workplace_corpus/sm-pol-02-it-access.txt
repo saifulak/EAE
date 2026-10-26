@@ -1,0 +1,18 @@
+source_id: SM-POL-02
+Notice: Fictional content for training only. Seri Maju Berhad is not a real company.
+
+Title: IT Access and Password FAQ
+
+Q: How do I get access to a system?
+Submit an access request in the IT Service Desk portal. Your line manager must approve it first. The IT Security team then grants access within 3 working days.
+
+Q: What are the password rules?
+Passwords must have at least 12 characters. They must be changed every 90 days. You cannot reuse your last 5 passwords. Multi-factor authentication (MFA) is required for all staff accounts.
+
+Q: What if I forget my password?
+Use the self-service reset page. If that fails, call the IT Service Desk on extension 4100. The desk is open Monday to Friday, 8:00 am to 6:00 pm.
+
+Q: What happens when I lose my laptop?
+Report it to the IT Service Desk within 2 hours. IT will lock the device remotely. Also lodge a police report within 24 hours.
+
+Accounts that are unused for 60 days are disabled automatically. Staff who leave the company lose access on their last working day at 5:00 pm.
