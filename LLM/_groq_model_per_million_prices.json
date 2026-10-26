@@ -1,0 +1,68 @@
+{
+  "openai/gpt-oss-120b": {
+    "name": "OpenAIGPT OSS 120B",
+    "input": {
+      "USD": 0.15,
+      "MYR": 0.651165
+    },
+    "output": {
+      "USD": 0.6,
+      "MYR": 2.60466
+    }
+  },
+  "openai/gpt-oss-20b": {
+    "name": "OpenAIGPT OSS 20B",
+    "input": {
+      "USD": 0.075,
+      "MYR": 0.3255825
+    },
+    "output": {
+      "USD": 0.3,
+      "MYR": 1.30233
+    }
+  },
+  "meta-llama/llama-prompt-guard-2-22m": {
+    "name": "MetaLlama Prompt Guard 2 22M",
+    "input": {
+      "USD": 0.03,
+      "MYR": 0.130466
+    },
+    "output": {
+      "USD": 0.03,
+      "MYR": 0.130466
+    }
+  },
+  "meta-llama/llama-prompt-guard-2-86m": {
+    "name": "MetaPrompt Guard 2 86M",
+    "input": {
+      "USD": 0.04,
+      "MYR": 0.173955
+    },
+    "output": {
+      "USD": 0.04,
+      "MYR": 0.173955
+    }
+  },
+  "openai/gpt-oss-safeguard-20b": {
+    "name": "OpenAISafety GPT OSS 20B",
+    "input": {
+      "USD": 0.075,
+      "MYR": 0.3255825
+    },
+    "output": {
+      "USD": 0.3,
+      "MYR": 1.30233
+    }
+  },
+  "qwen/qwen3.8-27b": {
+    "name": "Alibaba CloudQwen/Qwen3.8-27B",
+    "input": {
+      "USD": 0.8,
+      "MYR": 3.472776
+    },
+    "output": {
+      "USD": 4.0,
+      "MYR": 17.36388
+    }
+  }
+}
